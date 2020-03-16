@@ -1,6 +1,7 @@
 {
   "name": "sync-beat",
   "version": "0.1.0",
+  "homepage": "/sync-beat/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
