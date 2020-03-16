@@ -1,3 +1,8 @@
+# Sync Beat
+Sync Beat is a browser music app build in React that lets you listen to your friend's music using WebRTC
+
+> Note: WIP
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
