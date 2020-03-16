@@ -5,6 +5,7 @@ cache:
   directories:
   - node_modules
 script:
+  - sed '2 a "homepage": "/sync-beat/",' package.json
   - npm run build
 deploy:
   provider: pages
