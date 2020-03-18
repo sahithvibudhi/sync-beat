@@ -17,10 +17,11 @@ class User {
 
     }
 
-    save() {
-
+    static save(name) {
+        localStorage.setItem('user', JSON.stringify({name}));
+        return true;
     }
-    
+
 }
 
 export default User;

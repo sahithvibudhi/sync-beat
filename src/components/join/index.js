@@ -1,12 +1,12 @@
 import React from 'react';
-import './App.css';
+import './join.css';
 
-function App() {
+function Join() {
   return (
     <div className="App">
-      Hi
+      join
     </div>
   );
 }
 
-export default App;
+export default Join;
