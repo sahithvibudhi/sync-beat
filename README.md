@@ -1,4 +1,7 @@
 # Sync Beat
+
+[![Build Status](https://travis-ci.com/sahithvibudhi/sync-beat.svg?branch=master)](https://travis-ci.com/sahithvibudhi/sync-beat)
+
 Sync Beat is a browser music app build in React that lets you listen to your friend's music using WebRTC
 
 > Note: WIP
