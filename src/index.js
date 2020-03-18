@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import { Route, HashRouter as Router } from 'react-router-dom';
 
 import './index.css';
+import PrivateRoute from './components/route-validation';
 import App from './components/app';
 import Welcome from './components/welcome';
 
@@ -12,7 +13,7 @@ const gateway = (
     <Router basename={process.env.PUBLIC_URL}>
         <div>
             <Route path="/welcome" component={Welcome} />
-            <Route exact path="/" component={App} />
+            <PrivateRoute exact path="/" component={App} />
         </div>
     </Router>
 );
