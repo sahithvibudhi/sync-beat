@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sync-beat/static/css/main.0b4f85fd.chunk.css",
+    "main.js": "/sync-beat/static/js/main.830e05ed.chunk.js",
+    "main.js.map": "/sync-beat/static/js/main.830e05ed.chunk.js.map",
+    "runtime-main.js": "/sync-beat/static/js/runtime-main.998a6af2.js",
+    "runtime-main.js.map": "/sync-beat/static/js/runtime-main.998a6af2.js.map",
+    "static/css/2.4b6e3ef2.chunk.css": "/sync-beat/static/css/2.4b6e3ef2.chunk.css",
+    "static/js/2.7246b77d.chunk.js": "/sync-beat/static/js/2.7246b77d.chunk.js",
+    "static/js/2.7246b77d.chunk.js.map": "/sync-beat/static/js/2.7246b77d.chunk.js.map",
+    "index.html": "/sync-beat/index.html",
+    "precache-manifest.c9101e3d67000d15cd01a7e72578fe70.js": "/sync-beat/precache-manifest.c9101e3d67000d15cd01a7e72578fe70.js",
+    "service-worker.js": "/sync-beat/service-worker.js",
+    "static/css/2.4b6e3ef2.chunk.css.map": "/sync-beat/static/css/2.4b6e3ef2.chunk.css.map",
+    "static/css/main.0b4f85fd.chunk.css.map": "/sync-beat/static/css/main.0b4f85fd.chunk.css.map",
+    "static/js/2.7246b77d.chunk.js.LICENSE.txt": "/sync-beat/static/js/2.7246b77d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.998a6af2.js",
+    "static/css/2.4b6e3ef2.chunk.css",
+    "static/js/2.7246b77d.chunk.js",
+    "static/css/main.0b4f85fd.chunk.css",
+    "static/js/main.830e05ed.chunk.js"
+  ]
+}
