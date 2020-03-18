@@ -9,7 +9,7 @@ import Welcome from './components/welcome';
 import * as serviceWorker from './serviceWorker';
 
 const gateway = (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
         <div>
             <Route path="/welcome" component={Welcome} />
             <Route exact path="/" component={App} />
